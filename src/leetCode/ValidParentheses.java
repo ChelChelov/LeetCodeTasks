@@ -55,7 +55,11 @@ public class ValidParentheses {
         }
         return true;
     }
+
+//    public static boolean isValid3(String s){
+//
+//    }
 }
 // https://leetcode.com/problems/valid-parentheses/
 // I don't want to find a better way to solve this task
-// Another one try to solve this task and damn Leetcode give me new one peace of shit...
+// Another one try to solve this task and damn Leetcode gives me new one peace of shit...
